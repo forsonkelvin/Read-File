@@ -1,0 +1,3 @@
+C:/Users/forso/Desktop/CS 295/Assignment 8/cmake-build-debug/CMakeFiles/Assignment_8.dir
+C:/Users/forso/Desktop/CS 295/Assignment 8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/forso/Desktop/CS 295/Assignment 8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
